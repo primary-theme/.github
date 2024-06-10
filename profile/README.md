@@ -14,5 +14,7 @@ Header Image
 </p>
 
 <p align="center">
-For people looking for a certain nostalgic warmness.
+For people looking for a certain nostalgic warmness. Comfy, playful, but productive.
+<br>
+Let's bring play into work!
 </p>
