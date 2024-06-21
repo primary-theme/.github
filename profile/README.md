@@ -1,4 +1,4 @@
-Header Image
+![Primary for Obsidian Overview](https://github.com/primary-theme/obsidian/blob/main/assets/obsidian-overview-header.png)
 <h3 align="center">Primary Theme</h3>
 
 <p align="center">
