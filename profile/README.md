@@ -2,15 +2,15 @@
 <h3 align="center">Primary Theme</h3>
 
 <p align="center">
-🎠<a href="" alt=""> Website</a>
+🎠<a href="https://primary-theme.github.io/" alt="Visit the Theme Guide"> Website</a>
     ⋅
-🪴 <a href="" alt="">Color Story</a>
+🪴 Color Story
     ⋅
-🐛 <a href="" alt="">Report an Issue</a>
+🐛 Report an Issue
     ⋅
-🙋‍♀️ <a href="" alt="">Contribute</a>
+🙋‍♀️ Contribute
     ⋅
-💛 <a href="" alt="">Support</a>
+💛 <a href="https://dub.sh/primary/ko-fi" alt="Support Primary's Development!">Support</a>
 </p>
 
 <p align="center">
